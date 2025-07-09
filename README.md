@@ -28,6 +28,24 @@ Used the following metrics to assess model performance:
 - Precision, Recall, F1-score
 - Confusion Matrix
 - Accuracy
+  
+## 📊 Results
+
+### ✅ Training Data
+*Confusion Matrix:* `[[621, 21], [6, 38]]`  
+**Accuracy:** 96.1%  
+**Precision:** 64.4%  
+**Recall:** 86.4%  
+**F1-Score:** 73.8%
+
+---
+
+### 🧪 Test Data
+*Confusion Matrix:* `[[156, 5], [1, 10]]`  
+**Accuracy:** 96.5%  
+**Precision:** 66.7%  
+**Recall:** 90.9%  
+**F1-Score:** 76.9%
 
 ## 🛠️ Libraries Used
 - `pandas`
